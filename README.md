@@ -16,11 +16,21 @@ Cloud-DevSecOps-Learning
 - **AWS Audit Manager** (https://docs.aws.amazon.com/audit-manager/latest/userguide/what-is.html)
 - **AWS: How to deploy the AWS Solution for Security Hub Automated Response and Remediation** (https://aws.amazon.com/blogs/security/how-to-deploy-the-aws-solution-for-security-hub-automated-response-and-remediation/)
 - **AWS IAM explained for Red and Blue teams** (https://medium.com/bugbountywriteup/aws-iam-explained-for-red-and-blue-teams-2dda8b20fbf7)
+- **AWS Security Speciality Learning** 
+  - Security Pillar – AWS Well Architected Framework (https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf)
+  - Amazon Web Services: Overview of Security Processes (https://docs.aws.amazon.com/whitepapers/latest/aws-overview-security-processes/aws-overview-security-processes.pdf)
+  - Security at Scale: Logging in AWS (https://d1.awsstatic.com/whitepapers/compliance/AWS_Security_at_Scale_Logging_in_AWS_Whitepaper.pdf)
+  - AWS Key Management Best Practices (https://d1.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
+  - AWS Security Incident Response Guide (https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
+  - Building a Scalable and Secure Multi-VPC AWS Network Infrastructure (https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vpc-network-infrastructure/building-scalable-secure-multi-vpc-network-infrastructure.pdf)
+  
 
 ## Department of Defense
 
 - **USAF** (https://software.af.mil/training/)
 - **DoD Enterprise DevSecOps Reference Design** (https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf)
+- **AWS Best Practices for DDoS Resiliency** (https://d1.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf)
+
 
 ## DevSecOps and Cloud Security Project
 - **Top 44 DevSecOps Open Source Projects** (https://awesomeopensource.com/projects/devsecops)

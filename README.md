@@ -20,6 +20,7 @@ Cloud-DevSecOps-Learning
 ## Department of Defense
 
 - **USAF** (https://software.af.mil/training/)
+- **DoD Enterprise DevSecOps Reference Design** (https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf)
 
 ## DevSecOps and Cloud Security Project
 - ** Top 44 DevSecOps Open Source Projects** (https://awesomeopensource.com/projects/devsecops)

@@ -23,7 +23,7 @@ Cloud-DevSecOps-Learning
 - **DoD Enterprise DevSecOps Reference Design** (https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf)
 
 ## DevSecOps and Cloud Security Project
-- ** Top 44 DevSecOps Open Source Projects** (https://awesomeopensource.com/projects/devsecops)
+- **Top 44 DevSecOps Open Source Projects** (https://awesomeopensource.com/projects/devsecops)
 - **Arsenal of AWS security tools** (https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - **AWS Prespective** (https://github.com/awslabs/aws-perspective)
 - **Diagram as Code** (https://github.com/mingrammer/diagrams)
